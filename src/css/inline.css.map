@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,EAAE,CAAA;EACA,MAAM,EAAE,cAAc;EACtB,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,SAAS;EACtB,WAAW,EAAE,GAAG;CACjB",
+    "sources": [
+        "../../inline.scss"
+    ],
+    "names": [],
+    "file": "inline.css"
+}
